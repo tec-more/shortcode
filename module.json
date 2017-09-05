@@ -1,0 +1,8 @@
+{
+    "alias": "tukecx-shortcode",
+    "name": "Tukecx shortcode integration",
+    "author": "Tukecx",
+    "description": "Tukecx shortcode integration",
+    "namespace": "Tukecx\\Base\\Shortcode",
+    "autoload": "psr-4"
+}
